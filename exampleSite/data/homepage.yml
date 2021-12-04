@@ -71,7 +71,7 @@ contact:
 
 ################### call to action #################
 call_to_action:
-  enable : false
+  enable : true
   title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
