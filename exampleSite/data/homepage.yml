@@ -1,7 +1,7 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Bienvenido a Knowledge Trends"
+  title : "Knowledge Trends"
   content : "Construye tu carrera profesional con la ayuda de los mejores instructores."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
