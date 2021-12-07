@@ -62,7 +62,7 @@ product:
 
 ###################### Contact ####################
 contact:
-  enable : true
+  enable : false
   section : "CONTACT US"
   title : "reach us"
   image : "images/map-bg.jpg"
@@ -72,6 +72,6 @@ contact:
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
-  button_label : "Apply Now"
+  title : " ¿Necesitas una formación específica de algún instructor? <br> ¿Eres instructor y te gustaría formar parte de Knowledge Trends?"
+  button_label : "Contacto"
   button_link : "career"
